@@ -1,0 +1,9 @@
+Variables: Una Variable puede ser cualquier cosa a la que se le oueda dar un valor.
+
+Strings: Se usa para reprsentar y manipular una secuencia de caractaeres.
+
+Funciones: Se utiliza para representar el rpocedimiento a una instrccion como calcular un valor o realizar una tarea.
+
+Declaraciones: Se utiliza para definir e informar al sistema que vas a utilizar una varisble dentro de ella.
+
+Valores booleanos: Es una declaracion para definir dos posibles valores que son: (true) y (false).
