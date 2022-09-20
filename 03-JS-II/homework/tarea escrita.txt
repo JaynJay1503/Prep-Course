@@ -1,0 +1,7 @@
+for: se utiliza para repetir una serie de instrucciones un cierto numero de veces.
+
+&&: se utiliza para definir si 1 o mas operadores son iguales su resultado sera true
+
+||: se utiliza para definir si un operador u otro existen o se cumplen su resultado sera true 
+
+!: se utiliza para definir una desigualdad ya sea estricta o no, ejemplo: (!= ó !==)
