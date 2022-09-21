@@ -1,0 +1,9 @@
+objetos:  Es una coleccion de propiedades.
+
+propiedades:una propiedad es una asociacion entre un nombre y un valor.
+
+metodos: es la funcion que esta guardada dentro de un objeto
+
+bucle for in: es la herramienta que se utliza para recorrer cada propiedad de un objeto y los valores de la misma  
+
+notacion de puntos vs noacion de corchetes: la notacion de puntos (dot notation) funcion para llamar a propiedad dentro de un objeto es decir: (objeto.propiedad) y es lo mismo con los corchetes solo que respetaremos el hecho de que sea un string es decir: (objeto["propiedad"])
